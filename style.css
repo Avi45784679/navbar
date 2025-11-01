@@ -108,5 +108,6 @@ background: linear-gradient(to right,blue,purple,pink);
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    margin: 10px;
     
 }
